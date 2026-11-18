@@ -1,4 +1,4 @@
-install:
+ install:
 	npm --prefix ./configureGitOps install
 	npm --prefix ./createFromTemplate install
 
